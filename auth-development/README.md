@@ -1,3 +1,18 @@
+## Firebase Authentication Project
+Welcome to the Firebase Authentication Project! This README provides an overview of the project, including its purpose, setup instructions, and usage guidelines.
+
+## Table of Contents
+1. Project Overview
+2. Features
+3. Installation
+4. Usage
+5. Contributing
+6. License
+7. Contact
+
+## Project Overview
+The Firebase Authentication Project is designed to provide a robust and secure authentication system using Firebase. It simplifies the process of adding user authentication to your web or mobile application, supporting various authentication methods like email/password, Google, Facebook, and more.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
